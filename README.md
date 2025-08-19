@@ -3,8 +3,11 @@
 ## Project Aim 
 The goal was to predict used car prices based on various vehicle features and compare different machine learning models in terms of **prediction accuracy** and **training speed**.
 
+
+
 *Please note that the results of each model in the summary section is reflective of the platform the project was run on during its completion. You will see different results in some of the cells due to this project being run on a different device afterwards.*
 ---
+
 
 ## Dataset
 The dataset includes information about cars listed for sale, such as:
