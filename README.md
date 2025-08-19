@@ -46,5 +46,3 @@ LightGBM achieved the **best performance** (lowest RMSE) while being far more ef
 - Scikit-learn  
 - LightGBM  
 - Matplotlib / Seaborn (for visualization)
-   git clone https://github.com/your-username/car-price-prediction.git
-   cd car-price-prediction
